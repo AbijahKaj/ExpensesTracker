@@ -70,4 +70,4 @@ Date.prototype.timeNow = function () {
 };
 window.onbeforeunload = function(){
   return;
-}
+};
